@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce8c51a9-6bf7-43cf-91b6-22fe08ac5479" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_09.Conversation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_09.Conversation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_09.Conversation/src/main/java/Conversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_09.Conversation/src/main/java/Conversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_09.Conversation/target/classes/Conversation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_09.Conversation/target/classes/Conversation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_10.Story/src/main/java/Story.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_10.Story/src/main/java/Story.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_11.VariousVariables/src/main/java/VariousVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_11.VariousVariables/src/main/java/VariousVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/src/main/java/IntegerInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/src/main/java/IntegerInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_13.DoubleInput/src/main/java/DoubleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_13.DoubleInput/src/main/java/DoubleInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/src/main/java/BooleanInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/src/main/java/BooleanInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DifferentTypesOfInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DifferentTypesOfInput.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2b9SsEk2VGI7jl8RCQkcM8h0rgF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce8c51a9-6bf7-43cf-91b6-22fe08ac5479" name="Changes" comment="" />
+      <created>1705626007721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705626007721</updated>
+    </task>
+    <servers />
+  </component>
+</project>
